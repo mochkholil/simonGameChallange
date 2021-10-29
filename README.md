@@ -1,5 +1,7 @@
 # Simon Game
 
+![ScreenShot](./simon.JPG)
+
 A fun memory game that I got from [udemy](https://udemy.com) course. Work hard for this logic couse don't have any experience in Javascript 😁😁 .
 
 ## Instruction :
